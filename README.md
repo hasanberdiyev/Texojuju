@@ -1,75 +1,59 @@
 # Hasan Berdiyev
 
-**Aspiring AI Engineer | Generative AI & LLM Projects | Python & Software Engineering | School 21**
+**Aspiring AI Engineer | Python Beginner | AI-Assisted Product Prototyping**
 
-📍 Uzbekistan  
-📧 berdiyevhasan0504@gmail.com
+📍 Samarkand, Uzbekistan  
+📧 berdiyevhasan0504@gmail.com  
+🔗 GitHub: https://github.com/hasanberdiyev  
+🔗 LinkedIn: https://www.linkedin.com/in/hasan-berdiyev-b3aa74441/
 
-## About Me
+## Profile
 
-I am a Bachelor's student in Korean Language at Samarkand State Institute of Foreign Languages and a School 21 student currently developing my skills in software engineering and AI.
+AI Engineering student at School 21 Uzbekistan — Raqamli texnologiyalar maktabi, also pursuing a bachelor's degree in Korean Language at Samarkand State Institute of Foreign Languages (expected graduation: February 2027). Currently building foundational Python and software engineering skills and exploring practical AI-powered products using AI-assisted development tools. Interested in an entry-level Python / AI Engineering internship where I can learn, contribute, and develop hands-on engineering experience.
 
-I am focused on building practical AI-powered projects and gaining hands-on experience in AI Engineering. My current learning path combines Python, software engineering fundamentals, APIs, Git/GitHub/GitLab, Linux, and Generative AI.
+## Current Skills
 
-## AI & Development
+- **Python:** Beginner; learning programming fundamentals
+- **C:** Basic coursework and practice
+- **Developer tools:** Git, GitHub, GitLab; beginner-level workflow familiarity
+- **Environment:** Linux fundamentals
+- **AI-assisted development:** Lovable, ChatGPT, Gemini, Claude; using AI tools to prototype and iterate on product ideas
+- **Project exploration:** AI translation workflows, OCR-oriented text extraction, PDF/image processing concepts
 
-- OpenAI API / ChatGPT
-- Google Gemini API
-- Claude
-- Generative AI
-- AI-assisted application development
-- Telegram Mini Apps
-- Git / GitHub / GitLab
-- Linux
-- Vercel
-- Figma
-- Lovable
-- Google Stitch
-- Replit
+*Note: React, TypeScript, and Supabase are used in projects generated/refined with Lovable; they are not listed as independent skills.*
 
-## Featured Projects
+## Selected Projects
 
-### WebComics / MangaUz
-An AI-powered Telegram Mini App and web platform for Uzbek manga/manhwa readers.
+### WebComics / MangaUz — AI-assisted Telegram Mini App concept
+GitHub repository: https://github.com/hasanberdiyev/webtoon-uzbek-genius (private)
 
-Key areas:
-- AI-assisted manga/manhwa translation
-- OCR and image-based text processing
-- AI translation workflows
-- Speech-bubble text removal
-- Image processing and inpainting
-- PDF and image translation workflows
-- Telegram Mini App development
+- Explored a Telegram-native reading experience for Uzbek-speaking manga, manhwa, and webtoon readers.
+- Used Lovable as an AI-assisted development tool to generate and refine interfaces and application features.
+- Product direction includes catalog browsing, chapter reading, and AI-assisted translation workflows.
+- Focus: product concept, UI/UX iteration, AI-assisted prototyping, and understanding the integration/deployment workflow.
 
-### AI PDF Translator
-A local PDF translation workflow focused on processing manga/webtoon pages, OCR, translation, image cleanup, and export.
+### AI PDF-to-Webtoon Translator — prototype / exploration
+GitHub repository: https://github.com/hasanberdiyev/pdf-to-webtoon-magic (private)
 
-### School 21 Projects
-Practical programming projects developed while studying at School 21, including C programming exercises and Python-based data-processing tasks.
+- Explored a browser-based workflow for translating manga/webtoon PDF pages.
+- Project concept covers OCR-oriented text extraction, AI-assisted translation, text cleanup, page preview, batch processing, and export.
+- Used AI-assisted development tools to prototype and iterate on the workflow.
 
 ## Education
 
-**Bachelor's Degree in Korean Language**  
-Samarkand State Institute of Foreign Languages  
+**School 21 Uzbekistan — Raqamli texnologiyalar maktabi**  
+AI Engineering track — currently studying
+
+**Samarkand State Institute of Foreign Languages**  
+Bachelor's degree studies in Korean Language  
 Expected graduation: February 2027
-
-**School 21 — Main Education**  
-Started: June 2026
-
-## Current Goals
-
-- Build strong Python and software engineering fundamentals
-- Gain hands-on AI Engineering experience
-- Work with real-world AI/LLM projects
-- Learn production-oriented development and team workflows
-- Continue developing practical Generative AI applications
 
 ## Languages
 
 - Uzbek — Native
-- English — A2, currently improving
-- Korean — Korean Language Bachelor's student
+- Korean — University studies in Korean Language; proficiency level not yet specified
+- English — Proficiency level to be confirmed
 
----
+## Career Objective
 
-*Open to AI Engineering internships and practical learning opportunities.*
+Seeking an entry-level Python Developer or AI Engineering internship to strengthen programming fundamentals, learn from experienced engineers, and contribute to practical software and AI projects.
